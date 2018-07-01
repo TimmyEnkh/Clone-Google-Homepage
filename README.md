@@ -1,5 +1,6 @@
-# Clone-Google-Homepage
-Just another Google clone
+ I rebuilt the Google homepage using HTML and CSS
 
 
-Simply another Google clone
+
+
+ https://www.theodinproject.com
